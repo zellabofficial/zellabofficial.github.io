@@ -1,0 +1,12 @@
+html {
+    margin: 50px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin: 10px;
+}
